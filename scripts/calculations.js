@@ -91,3 +91,4 @@ function addExpenseEntry(entry) {
   expenseEntries.push([category, amount]);
   totalExpensesValue += amount; 
   updateBalanceColor();
+   }

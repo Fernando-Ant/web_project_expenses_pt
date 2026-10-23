@@ -38,7 +38,7 @@ Projeto web para registrar e acompanhar despesas.
 ## Como executar o projeto
 
 1. Baixe ou clone o repositório.
-2. Abra o arquivo index.html no navegador.
+2. Abra o arquivo `index.html` no navegador.
 
 ## Status do projeto
 
